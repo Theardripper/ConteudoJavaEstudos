@@ -1,0 +1,5 @@
+package empresateste.agendaedu.contatos.modelo;
+
+public class ContatoRepositorio {
+
+}

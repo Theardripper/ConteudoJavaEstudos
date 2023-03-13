@@ -1,0 +1,14 @@
+package fundamentos;
+
+public class For3 {
+	
+	public static void main(String[] args) {
+		
+		//variaveis dentro do for
+		
+		for(int i = 10; i < 20; i++) {
+			System.out.println(i);
+		}
+	}
+
+}
